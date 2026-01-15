@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Protocols and Policies
-parent: Help
+parent: Resources
 permalink: /protocols_and_policies/
 ---
 

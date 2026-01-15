@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ViBe
-parent: Help
+parent: Resources
 permalink: /vibe/
 order: 4
 ---

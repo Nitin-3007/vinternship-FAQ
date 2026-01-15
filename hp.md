@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Health Points
-parent: Help
+parent: Resources
 permalink: /hp/
 ---
 

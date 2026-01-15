@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub Guide
-parent: Help
+parent: Resources
 permalink: /git-guide/
 ---
 
